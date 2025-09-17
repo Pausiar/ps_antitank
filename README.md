@@ -1,4 +1,4 @@
-# ps\_antitank
+# ps\_antitank 🇬🇧
 
 # 🛡️ Anti-Tanking - FiveM
 
@@ -72,8 +72,8 @@ This resource is **free and open to use** on any server, as long as credits to t
 ----------------------------------------------------------------------------------------------------------------------------------------------------
 
 
-# ps_antitank
-# 🛡️ Anti-Tanqueo - FiveM :flag_es: 
+# ps_antitank 🇪🇸
+# 🛡️ Anti-Tanqueo - FiveM  
 
 **Versión:** 1.1.0
 
