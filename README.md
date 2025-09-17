@@ -73,7 +73,7 @@ This resource is **free and open to use** on any server, as long as credits to t
 
 
 # ps_antitank
-# 🛡️ Anti-Tanqueo - FiveM
+# 🛡️ Anti-Tanqueo - FiveM :flag_es: 
 
 **Versión:** 1.1.0
 
